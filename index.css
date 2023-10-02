@@ -10,11 +10,13 @@
 }
 .box{
     height: 100vh;
-    border: 12px solid red;
+/*     border: 12px solid red; */
     border-radius: 10px;
+    background-color: linear-gradient(to right bottom, pink,light green);
     display: flex;
     justify-content: center;
     align-items: center;
+    padding:10px;
 }
 .vid{
     width: 100%;
